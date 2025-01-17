@@ -166,7 +166,7 @@ main > section{
 }
 
 .featured-architect img {
-    width: 100%;
+    /* width: 100%; */
 }
 
 /* some facts style */
@@ -253,6 +253,10 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+
+    .featured-architect img{
+        width: 100%;
+    }
 }
 
 /* medium device */
@@ -275,5 +279,9 @@ main > section{
     #experience-badge{
         margin-top: 20px;
         margin-left: 20px;
+    }
+
+    .featured-architect img{
+        width: 100%;
     }
 }
